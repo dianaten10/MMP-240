@@ -1,3 +1,3 @@
 # MMP 240
 Course template
-https://dianaten10.github.io/mmp240/
+https://dianaten10.github.io/mmp-240/
